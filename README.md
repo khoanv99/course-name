@@ -6,6 +6,7 @@
 -->
 Update the game over message
 Update the game over message so people know how to play again!
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
